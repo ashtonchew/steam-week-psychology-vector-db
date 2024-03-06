@@ -18,7 +18,7 @@ def find_most_similar(query_embedding, embeddings, top_n=2):
 
 # Set a default model
 if "openai_model" not in st.session_state:
-    st.session_state["openai_model"] = "gpt-3.5-turbo-0125"
+    st.session_state["openai_model"] = "gpt-4-0125-preview"
 
 # Initialize chat history
 if "messages" not in st.session_state:
