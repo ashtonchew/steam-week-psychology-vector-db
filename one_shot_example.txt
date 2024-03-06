@@ -1,0 +1,725 @@
+
+    You are an expert CIE A-Level Psychology Tutor. Your task is to provide a comprehensive, well-structured, and engaging answer to a student's question about psychology. Use the provided context, which is based on the most relevant syllabus content of the CIE A-Level Psychology Exams, to formulate your response.
+
+    When answering the question, adhere to the following guidelines:
+
+    Clarity: Ensure your response is clear, coherent, and easy to understand for an A-Level student.
+    Relevance: Use relevant psychological theories, concepts, and studies from the provided syllabus context to support your explanation. Stay focused on the question and avoid irrelevant information.
+    Examples: If necessary, provide real-world examples or analogies to illustrate complex ideas and help the student grasp the concepts more easily.
+    Terminology: Use appropriate psychological terminology and briefly explain any technical terms that the student may not be familiar with.
+    Structure: Organize your answer in a logical manner, using paragraphs to separate main points and ensure a smooth flow of information.
+    Engagement: Make your response engaging and interesting to read, encouraging the student's curiosity and enthusiasm for psychology.
+    Syllabus Context:
+
+    •biological explanations:
+– genetic
+– biochemical (the dopamine hypothesis).
+
+• psychological (cognitive) explanation Explanations
+Psychologists offer competing explanations for
+schizophrenia. We will discuss possible biological
+causes (genetics and biochemical) as well as a cognitive
+explanation.
+Biological
+Genetic
+One biological explanation for schizophrenia is that
+genes or particular combinations of genes are passed on
+to offspring which may cause the disorder to develop.
+Three ways of investigating the genetic explanation
+for schizophrenia are family studies, twin studies and
+adoption studies.
+Family studies show a general trend in the development
+of a disorder for individuals who have close family
+members (with whom they share a higher proportion
+of their genes) with that disorder. This research
+generally shows that if you have close family members
+6 Clinical psychology
+with schizophrenia you are more likely to also
+develop schizophrenia.
+KEYWORDS
+family study: a type of study investigating
+whether biological relatives of those with a
+disorder are more likely than non-biological
+relatives to be similarly affected
+twin study: a type of study that compares sets
+of twins to analyse similarities and differences.
+This may include concordance for intelligence
+or mental disorders. Both monozygotic (MZ)
+and dizygotic (DZ) twins are studied, and their
+concordance rate is compared
+adoption study: a type of study looking at the
+similarities between adopted individuals and
+their biological parents as a way of investigating
+the differing influences of biology and
+environment
+This suggests that schizophrenia is at least partly
+caused by genetics. For example, as shown in Figure
+6.4, Gottesman (1991) found that the likelihood of
+developing schizophrenia went from 1 % in the general
+population, up to 48% if you have an identical twin
+with schizophrenia.
+Twin studies are a useful way of studying the role of
+genetics in schizophrenia because they allow researchers
+to study the relative influences of nature and nurture.
+■ 12.5%
+3rd degree
+relatives
+■ 25%
+2nd degree
+relatives
+■ 50%
+1st degree
+relatives
+■ 100%
+Genes shared
+General
+population
+First cousins
+Uncles/ Aunts
+Nephews / Nieces
+Grandchildren
+Half siblings
+Parents
+Siblings
+Children
+Fraternal twins
+Identical twins
+Relationship to
+person with
+schizophrenia
+0 10
+13%
+17%
+20
+48%
+30 40 50
+Risk of developing schizophrenia
+Figure 6.4: The results of the study by Gottesman (1991)
+187 ) 
+) CAMBRIDGE INTERNATIONAL AS & A LEVEL PSYCHOLOGY: COURSEBOOK
+For example, identical or monozygotic (MZ) twins
+share their entire DNA, whereas non-identical or
+dizygotic (DZ) twins only share around 50% of their
+DNA. Research tends to show that the concordance of
+schizophrenia is higher in MZ twins than DZ twins,
+again, suggesting there is a genetic contribution. Hilker
+et al. (2017) carried out a twin study with over 30000
+twin pairs in Denmark, using two national registers:
+Danish Twin Register and the Danish Psychiatric
+Central Research Register. They looked not only at
+those with a diagnosis of schizophrenia but also those
+with related disorders. Hilker et al. concluded that
+heritability of schizophrenia was 79%.
+KEYWORDS
+monozygotic (MZ) twins: identical twins, who
+share 100% of their DNA with one another
+dizygotic (DZ) twins: non-identical twins, who
+share approximately 50% of their DNA with
+one another
+concordance: the presence of a particular
+observable trait or disorder in both individuals
+between family members and within a set of
+twins; for example, the likelihood that one twin
+will have schizophrenia if the other twin
+has schizophrenia
+heritability: the extent to which the presence
+of a disorder (or a trait) is due to the genetic
+variance in the population, i.e. the extent to
+which it is inherited
+Adoption studies allow us to truly separate out
+the influence of genetics and the influence of the
+environment, something that neither family studies nor
+twin studies have been able to do. This is achieved by
+comparing a child, raised by an adoptive family, with
+their biological parent, who they were not raised by.
+Tienari et al. (2000) found schizophrenia in 6. 7% of
+adoptees with a biological mother with schizophrenia,
+compared to just 4% of a control group (adoptees born
+to mothers without schizophrenia). This suggests that,
+in line with family studies and twin studies, there is a
+genetic influence in the development of schizophrenia.
+Biochemical (dopamine hypothesis)
+The dopamine hypothesis essentially states that
+the brains of people with schizophrenia produce
+188 )
+more dopamine than the brains of people without
+schizophrenia. Dopamine is a neurotransmitter, meaning
+it is a chemical substance which enables communication
+between two neurons. To allow the nerve impulse to pass
+between two cells, the neurotransmitter moves across a
+small junction known as a 'synapse' (see Figure 6.5).
+Figure 6.5: Neurotransmission is the transmission of nerve
+impulses from one neuron to another
+The dopamine hypothesis identifies a link between
+excessive amounts of dopamine or dopamine receptors
+and positive symptoms of schizophrenia and related
+disorders. Research suggests that neurons that use the
+transmitter dopamine either fire too often, or send too
+much information. Additionally, research suggests that
+an excess of dopamine in particular brain regions can be
+related to certain symptoms. For example, an increase
+in dopamine in the Broca's region (responsible for
+formation of language) can impair logical speech, which
+is a classic symptom of schizophrenia.
+KEYWORD
+neurotransmitter: a chemical messenger that
+enables communication between the neurons in
+the brain 
+Evidence to support this theory comes from drug
+trials involving people with schizophrenia and people
+without the disorder. Drugs that increase the level
+of dopamine in the brain include amphetamines and
+cocaine. Large increases in dopamine production
+are correlated with an increase in the reporting
+of hallucinations and delusions. In people with
+schizophrenia, the drugs cause their positive symptoms
+to worsen. Patients with Parkinson's disease are often
+treated with a synthetic form of dopamine called
+L-dopa. If their dosage is too high, it also creates
+symptoms in these individuals identical to those in
+people with schizophrenia, such as hallucinations
+(Lindstrom et al., 1999).
+Post-mortem studies and brain scans can also help
+us to understand the neurochemistry involved.
+Post-mortem studies have found that the brains of
+deceased individuals with schizophrenia have a larger
+number of dopamine receptors than those without
+the disorder. Wise et al. (1974) found that brain fluid
+from deceased patients had abnormally low levels of
+the enzyme that breaks down dopamine, suggesting
+that dopamine may have been present in excessive
+quantities.
+Positron emission tomography (PET) scan analysis
+to measure the amount of dopamine activity in the
+brain indicates a greater number of receptors in the
+striatum, limbic system, and cortex of the brain
+in those with schizophrenia than in those without.
+Excessive dopamine activity in these areas may be
+linked to positive symptoms, while some research
+(Nestler, 1997) suggests that decreased dopamine
+activity in the prefrontal cortex of schizophrenia
+patients may correlate with negative symptoms such
+as flattened affect. See Figure 6.6 for a PET scan
+showing the differences in the dopamine activity of
+those with schizophrenia compared to those without
+schizophrenia.
+KEYWORDS
+drug trial: research studies where different drugs
+or medications are given to groups of people
+and their responses or outcomes are compared
+post-mortem studies: the examination of a
+person's brain after they have died, to investigate
+abnormalities that could explain symptoms or
+conditions they experienced when they
+were alive
+6 Clinical psychology
+KEYWORD
+positron emission tomography (PET) scanning:
+a technique that uses gamma cameras to detect
+radioactive tracers, such as glucose that is
+injected into the blood. The tracer accumulates
+in areas of high activity during the scan, allowing
+them to become visible for analysis
+Figure 6.6: PET scans showing greater dopamine activity
+(deep purple) in the striatum, limbic system and cortex in
+the brain of an individual with schizophrenia (2) than one
+without schizophrenia (1)
+Psychological
+Cognitive
+The cognitive explanation recognises that biological
+factors contribute in some way to the positive symptoms
+of schizophrenia. For example, Frith (2015) accepts
+the role of biochemical processes, brain structure and
+genetic influence on the disorder. However, since no
+single genetic, structural or biochemical cause has been
+identified as being responsible for schizophrenia, he
+looked for cognitive explanations of schizophrenia. This
+essentially means schizophrenia is viewed as involving
+faulty mental processes, rather than relying solely on
+physiological explanations.
+Frith describes schizophrenia as an 'abnormality of selfmonitoring'. This occurs when patients fail to recognise
+that their perceived hallucinations are in fact just inner
+speech (the kind of self-talk people normally experience).
+It leads them to attribute what they are hearing to
+someone else, e.g. a voice speaking to them from an
+external source. He tested this idea with patients with 
+) CAMBRIDGE INTERNATIONAL AS & A LEVEL PSYCHOLOGY: COURSEBOOK
+schizophrenia by asking them to decide whether items that
+had been read out loud were done so by themselves, an
+experimenter or a computer. Patients with schizophrenia
+who had incoherent speech as a symptom performed the
+worst at the task, which may be linked to memory and
+attention difficulties crucial for self-monitoring.
+Frith suggests that another major positive symptom,
+delusional thinking, may also arise from a misinterpretation
+of perception. Those experiencing delusions may be
+applying logical reasoning to their hallucinations, for
+example. So, thoughts that are actually self-generated
+instead appear to be coming from an external source and
+become incorporated in the individual's set of beliefs. These
+failures in monitoring can lead to delusions of alien control,
+auditory hallucinations and thought insertion. On the other
+hand, inability to monitor the intentions of others can lead
+to delusions of paranoia and incoherence.
+Frith explains that those experiencing negative symptoms
+such as avolition have difficulty generating spontaneous
+actions. This means that they may find it difficult to
+make decisions on how to behave or what to do without
+some sort of a prompt from someone or something else.
+For example, someone with negative symptoms may
+find it difficult to start a conversation with someone else
+(a spontaneous action) but they may be able to answer
+questions when asked (responding to a stimulus). This may
+arise in part due to an impaired theory of mind, which
+creates problems in recognising the intentions of others. A
+flattening of affect, lack of speech and social withdrawal
+all result from difficulties in monitoring their own mental
+states and the states of others.
+RESE RCH METHODS
+There are some methodological issues with samples
+in family, twin and adoption studies. The samples
+are often relatively small and not necessarily
+representative of the whole population. This is
+because there are not very many people who are
+part of a set of twins where at least one of the twins
+has schizophrenia. Hilker et al. (2017), however,
+recruited a vast sample of 30,000 twin pairs from
+two nationwide registers, ensuring a representative
+sample. How could the use of a control group
+increase the validity of twin or adoption studies?
+Some twin and adoption studies are longitudinal,
+which increases the validity as we can see potential
+diagnoses and changes in behaviour over time,
+which is far more useful than a snapshot study where
+we only look at the participants at one point in time.
+190 )
+ISSUES AND DEBATES
+The nature versus nurture debate is particularly
+relevant to understanding explanations of
+schizophrenia and related disorders. Twin studies
+tend to suggest a genetic explanation for
+schizophrenia through higher concordance rates for
+MZ, rather than DZ, twins. However, it is difficult to
+isolate nature from nurture. It is likely that MZ twins
+are not only more genetically similar than DZ twins
+but are also more likely to be treated more similarly
+by others. This is because they are always the same
+gender (unlike DZs) and may look much more alike.
+DZ twins, although they are the same age and
+live in the same environment, may experience life
+more like ordinary non-twin siblings. This means
+that not all differences between MZ and DZ twins
+can be simply attributed to genetics. This is where
+adoption studies are particularly helpful: they are
+able to really allow us to consider the influence of
+nature (similarities with the biological parent) and
+nurture (similarities with the adoptive parent). How
+could the free will versus determinism debate be
+applied to explanations of schizophrenia?
+    • diagnostic criteria (ICD-11) of schizophrenia, including symptoms (positive and negative). A case study of
+Schizophrenia.
+
+• types of delusions focusing on investigating delusions using virtual reality (exemplified by the following
+key study). 6.1 Schizophrenia
+Diagnostic criteria
+Psychotic disorders involve a major break from reality in
+which the individual perceives the world in a way that is
+vastly different to how others perceive it. Schizophrenia
+is a very severe type of psychotic disorder.
+According to the ICD-11, schizophrenia is characterised
+by disturbances across many aspects of a person's
+thoughts, feelings, experience and behaviour. There are
+many symptoms that may be present in someone with
+schizophrenia but the ICD-11 states that there are some
+core symptoms:
+• Persistent delusions: beliefs that an individual
+holds, which are not based in reality, for example
+falsely believing that someone is trying to
+harm you.
+• Persistent hallucinations: sensory experiences, most
+commonly auditory (hearing things that are not
+there, for example hearing voices; see Figure 6.1)
+or visual (seeing things that are not there).
+• Thought disorder: an inability to think, and
+therefore speak, in an organised manner.
+• Experiences of influence, passivity or control - the
+belief that your thoughts or actions are influenced
+or controlled by someone or something external.
+There are many other symptoms that may also
+occur, including:
+• avolition (lack of motivation)
+• flattened affect (blunted emotional expression)
+• impaired cognitive function (reduced memory
+or attention)
+• catatonia (lack of movement or speech).
+These symptoms can be described as either 'positive'
+or 'negative'. In relation to symptoms of schizophrenia,
+these terms do not have the same meaning as they do
+usually; we are not referring to 'positive' as 'good' and
+'negative' as 'bad'. The four core symptoms in the first
+list are all positive symptoms; the four other symptoms
+in the second list are negative symptoms.
+182 )
+, KEYWORDS
+ICD-11: the 11 th edition of the International
+Classification of Diseases. This is the global
+standard for coding health information and
+includes both physical and mental health
+disorders. It was developed and is updated by
+the World Health Organization (WHO)
+flattened affect: the absence or reduction of an
+outward expression of feelings or emotions, such
+as a facial expression
+positive symptom: an experience that is
+'in addition to' or 'a distortion of' normal
+experience
+negative symptom: this occurs when level of
+functioning or experience falls below normal
+levels
+A positive symptom describes an experience that is 'in
+addition to' or 'a distortion of' normal experience. For
+example, delusions are positive symptoms because they
+involve a distorted way of thinking and hallucinations
+are positive symptoms because they involve a distorted
+perception of the world.
+Figure 6.1: An auditory hallucination (hearing voices) is
+one of the core symptoms of schizophrenia 
+A negative symptom is where level of functioning or
+experience falls below normal levels. For example,
+avolition is a negative symptom because a person's
+motivation levels are lower than would be considered
+normal and flattened affect is a negative symptom
+because the expression of emotion is less than would
+be expected.
+For a diagnosis of schizophrenia to be made, symptoms
+must have persisted for at least one month and must
+not be due to another health condition (such as a
+brain tumour) or due to the effect of a substance
+or medication.
+Example study
+Aneja et al. (2018) carried out three case studies on
+individuals who all developed early-onset schizophrenia,
+where the symptoms began before the age of
+18 years. Core study 1 describes a boy who began
+to show a decline in his academic studies and general
+behaviour from the age of 10, when his parents
+divorced; as a result, he and his mother moved in
+with his grandparents and he changed schools. From
+the age of 12 he had been hearing voices and as time
+went on, he believed his mother and other people
+were communicating with the voices. His behaviour
+became more erratic, and he muttered to himself and
+shouted at people who were not there. He barely slept
+and his level of self-care declined dramatically. In the
+following years, he was admitted to hospital several
+times and given a range of medications to attempt to
+get his worsening symptoms under control. The boy
+was diagnosed with early-onset schizophrenia and was
+released from hospital, on medication that kept his
+aggressive behaviours under control. However, he still
+suffered from negative symptoms such as apathy, social
+withdrawal and a resistance to going to school.
+I
+KEYWORD
+early-onset: when a disorder starts at a
+significantly younger age than average.
+Schizophrenia typically starts during early
+adulthood so any development during childhood
+would be classed as early-onset
+6 Clinical psychology
+Types of delusion
+There are many different types of delusion that someone
+with schizophrenia may experience. Some of the most
+common types of delusion are:
+• Persecutory delusion: a strongly held belief that you
+are in danger, that you are being conspired against
+and that others are pursuing you to try to do
+you harm.
+• Grandiose delusion: a strongly held belief that you
+are someone with special abilities or special powers,
+for example the belief that you are a superhero.
+• Delusion of reference: a strongly held belief that
+events in the environment are related to you, for
+example the belief that a television programme is
+talking about you.
+There is a range of other types of delusion, but they
+are all examples of a belief that is fully believed, despite
+strong evidence to contradict it.
+KEYWORDS
+persecutory delusion: a strongly held belief that
+you are in danger, that you are being conspired
+against and that others are pursuing you to try to
+do you harm
+grandiose delusion: a strongly held belief that
+you are someone with special abilities or special
+powers, for example the belief that you are
+a superhero
+delusion of reference: a strongly held belief that
+events in the environment are related to you, for
+example the belief that a television programme
+is talking about you
+ACTIVITY 6.1
+Make a crossword or wordsearch for the
+symptoms of schizophrenia. The clues should be
+descriptions of the symptoms and the words to
+either find in the grid, or to put into the crossword
+will be the names of the symptoms. Swap your
+crossword or wordsearch with someone else so
+you can have a go at completing each other's.
+183) 
+> CAMBRIDGE INTERNATIONAL AS & A LEVEL PSYCHOLOGY: COURSEBOOK
+•
+The use of the case study by Aneja et al. (2018)
+is beneficial as it allows for lots of detail to be
+gathered about this one participant. A range of
+data collection techniques can be used in a case
+study to gather both qualitative and quantitative
+data. To study one person, or a small group
+of people, in such depth allows for a deeper
+understanding and insight into their experience,
+increasing the validity of the research. One
+problem with the use of case studies is that,
+because the research focuses only on one person,
+or a small group of people, the results can't be
+generalised to the wider population; the study
+just tells us about that person (or those people) in
+their specific set of circumstances. Furthermore,
+the case study cannot be replicated as no two
+situations will be exactly the same. What could be
+the strengths of using interviews in a case study?
+ISSUES AND DEBATES
+The use of children in psychological research is a
+sensitive one. When children are used in research,
+for example the study by Aneja et al. (2018), the
+ethical issues need to be considered even more
+closely. It is more difficult for children to give
+fully informed consent to take part in research as
+they may not understand fully what is involved,
+so parents must give fully informed consent
+along with their children. Protection from harm
+is particularly important because children may
+respond to things differently to adults and they
+may find it difficult to communicate their feelings.
+This also applies to right to withdraw: a child
+may not understand fully that they can withdraw
+from the research, or they may not know how to
+express this effectively.
+Key study: Freeman et al.
+(2003)
+Freeman, D., Slater, M., Bebbington, P. E., Garety,
+P. A., Kuipers, E., Fowler, D., ... & Vinayagamoorthy,
+V. (2003). Can virtual reality be used to investigate
+persecutory ideation? The journal of nervous and
+mental disease, 191(8), 509-514.
+Context
+In the 1990s and early 2000s, virtual reality (VR) was a
+very new technology to be used in psychology. VR was
+primarily used to investigate spatial awareness and other
+cognitive skills, as well as social interactions. However,
+VR has also been shown to be useful in treating a range
+of different psychological disorders, including phobias
+and anxiety disorders. Research by Rothbaum et al.
+(2000) shows that people suffering from a range of
+phobias (including phobias of specific animals, objects
+and situations) have been successfully treated using VR.
+In this case VR is used to carry out exposure therapy,
+where the individual is gradually exposed to more
+fearful instances of their phobic stimulus until they no
+longer feel fear of the stimulus. VR bas also been used
+to help reduce a fear of public speaking, with virtual
+people (avatars) being able to elicit anxiety and therefore
+provide an opportunity for the person to overcome their
+fear (Slater et al. 1999).
+Main theories and explanations
+Persecutory ideation is the belief (without any evidence)
+that other people are being hostile towards you, or that
+they have negative feelings towards you. Persecutory
+ideation is one of the most common symptoms of
+schizophrenia. Persecutory ideation can have a profoundly
+negative effect on someone's life as it can lead to complete
+social withdrawal and an inability to maintain usual
+activities due to fear of hostility from others. However,
+when someone is experiencing persecutory ideation as a
+symptom of schizophrenia it can be difficult to understand
+their experience due to the complex nature of the disorder.
+If VR can be used to develop a greater understanding
+of persecutory ideation in people without schizophrenia
+this could help develop a better understanding of
+persecutory ideation in those with schizophrenia. A better
+understanding could, in tum, lead to better ways of
+helping those with schizophrenia understand and learn to
+cope with their persecutory ideation.
+KEYWORDS
+virtual reality (VR): a computer-generated
+simulation where a person uses special goggles
+and a screen or gloves to interact with a threedimensional environment. See Figure 6.2
+persecutory ideations: the belief that people
+want to hurt you, despite there being no
+evidence to back this up 
+Figure 6.2: Virtual reality has been used to understand
+and help treat psychological disorders
+Aims
+The aim was to investigate whether participants
+without a history of mental illness have thoughts of
+a persecutory nature in virtual reality. The research
+also aimed to find out whether there are cognitive
+or emotional factors that predict the likelihood of
+persecutory ideation being shown in virtual reality.
+The researchers hypothesised that a small number of
+participants would have thoughts of a persecutory
+nature in virtual reality, and that these would be people
+with higher levels of emotional distress and paranoia.
+Design
+The sample consisted of 12 male and 12 female
+participants, all students, or administrative staff from
+University College London, UK, with an average
+age of 26 years. All participants had no history of
+mental illness. Participants were recruited using
+volunteer sampling, where participants responded to an
+advertisement within University College London.
+A lab experiment was used, where participants were
+trained how to use the VR equipment and then asked
+to enter the virtual environment (a library scene) for
+5 minutes. Participants were not told the research
+was investigating persecutory ideation, but were
+asked to explore the environment and try to form an
+6 Clinical psychology
+impression of the people in the room and what those
+people may think of the participant. There were five
+avatars in the scene: three sat at one desk and two
+sat at another desk. Occasionally the avatars showed
+ambiguous behaviour, such as smiling, looking, talking
+to each other (see Figure 6.3).
+After leaving the VR environment, participants were
+given a range of questionnaires. One questionnaire was
+the Brief Symptom Inventory (BSI), which is a 53-item
+self-report measure designed to assess nine symptom
+dimensions over the last seven days. The symptoms
+measured include: interpersonal sensitivity (a tendency to
+focus on feelings of personal inadequacy or inferiority,
+and a feeling of marked discomfort during interpersonal
+interactions), depression (depressive disorder (unipolar)),
+anxiety, hostility and psychoticism. Other questionnaires
+were given, which measured anxiety and paranoia, as
+well as a 'sense of presence' (the extent to which the
+participant felt they were a part of the virtual world)
+and specific ideations of persecution. The questionnaires
+included closed questions, where participants gave
+their answer on a numerical scale (e.g. the measure of
+anxiety had 20 items each measured on a scale of 1-4).
+To allow for the possibility that the questionnaires after
+the virtual reality exercise may prime participants for
+persecutory thoughts, half of the participants (equal
+number of males and females) completed questionnaires
+both before and after the virtual reality experience.
+Semi-structured interviews were also carried out to find
+out the participants' thoughts and feelings about the
+virtual reality experience.
+'
+KEYWORDS
+Brief Symptom Inventory (851): a 53-item
+self-report measure designed to assess nine
+symptom dimensions (such as hostility, anxiety
+and depression) over the last seven days
+interpersonal sensitivity: a tendency to focus
+on feelings of personal inadequacy or inferiority,
+and a feeling of marked discomfort during
+interpersonal interactions
+185 ) 
+) CAMBRIDGE INTERNATIONAL AS & A LEVEL PSYCHOLOGY: COURSEBOOK
+Figure 6.3: The virtual scene used in Freeman et al.'s study
+Results, findings and conclusions
+There was a significant correlation between scores on
+the paranoia questionnaire and the paranoia score
+given based on the interview. The results showed that,
+for the most part, participants had positive opinions
+about the avatars, but some had ideas of persecution.
+For example, for the item 'they were talking about
+me behind my back', 11 participants did not agree,
+eight agreed a little, three agreed moderately and two
+agreed totally. Some examples of the statements on the
+paranoia questionnaire can be seen in Table 6.1. There
+were no significant differences in the persecution scores
+between males and females, or between those who had
+questionnaires only after, or before and after the task.
+In terms of predictive factors for persecutory ideation
+in VR, persecutory thoughts about the avatars did
+not significantly correlate with paranoia score. Higher
+levels of interpersonal sensitivity and higher levels
+of anxiety were significantly correlated with higher
+levels of persecutory thoughts in VR. Freeman et al.
+concluded that people do attribute mental states to VR
+characters and, although these are usually positive, they
+can be persecutory in nature. People are more likely to
+show persecutory ideation if they show high levels of
+interpersonal sensitivity or anxiety.
+'Positive'
+'Friendly people just being friendly and offering a smile'
+'People were nicer than real people'
+'Part of a game (flirting but being shy)'
+'It was nice when they smiled, made me feel welcome.'
+'They looked friendly - that was my over all impression'
+'I smiled and chuckled'
+'Negative'
+'They were very ignorant and unfriendly'
+'Sometimes appeared hostile, sometimes rude'
+'It was their space: you're the stranger.'
+'They were telling me to go away'
+'One person was very shy and another had hated me'
+'The two women looked more threatening'
+'Some were intimidating'
+Table 6.1: Examples of some of the statements included in
+the paranoia questionnaire in Freeman et al.'s research
+Evaluation
+The study by Freeman et al. (2003) uses a specially
+designed VR program that allows for a standardised
+approach to assessment which increases the reliability
+of measurement. However, it compromises the
+ecological validity of the assessment, as it involves
+a simulated environment quite different from what
+we typically experience. It relies on self-report in that
+users of VR were asked to make comments about
+their experiences, which may lead to response bias.
+However, by using a combination of numerical scales
+and semi-structured interviews, the researchers were
+able to gather a combination of quantitative and
+qualitative data. This allows for data analysis to be
+carried out on the quantitative data while also allowing
+detailed information from the qualitative data. The
+use of a control where half the participants completed
+questionnaires both before and after the VR increases
+the validity, by ensuring the questionnaires themselves
+are not eliciting feelings of persecution. 
+The sample was relatively small (24), and all participants
+were from the same university (either students or
+administrative staff) so this is not a representative
+sample, which limits the generalisability of the results.
+However, there was an equal split of males and females
+so there is no gender bias.
+The research was ethical in that participants
+gave consent, had the right to withdraw and were
+debriefed afterwards. Participants who scored high
+in anxiety or interpersonal sensitivity and those who
+reported persecutory ideation may be somewhat
+distressed by these outcomes, so a full and thorough
+debrief would be essential in order to protect them
+from harm.
+It is important to consider application to everyday life
+with Freeman et al.'s study. On the one hand the findings
+of the study can be applied to everyday life by allowing
+a greater understanding of factors that may predict
+persecutory ideation. The findings that VR can be used
+effectively as a measure of persecutory ideation is also
+applicable to everyday life as this suggests VR could be
+used again to measure similar experiences. However,
+the application to everyday life is limited because the
+study used VR, not actual real-life situations. This study
+shows us how people respond and interpret behaviours
+and intentions in avatars in VR, but this cannot tell
+us for certain how people would respond to similar
+experiences in everyday life.
+    Question:
+    Evaluate Gottesman 1991
+
+    Answer:
+    
