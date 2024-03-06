@@ -1,5 +1,4 @@
 import streamlit as st
-from embedding_function import generate_embeddings, find_most_similar
 import pandas as pd
 import numpy as np
 from openai import OpenAI
